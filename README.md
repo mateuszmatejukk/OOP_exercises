@@ -3,7 +3,7 @@ Some of my solutions to exercises from my Data Science course, focused on writin
 
 ## Topics covered
 - **Python data model (dunder methods):** custom container types, context managers
-- **Validation and error handling:** raising appropiate exceptions
+- **Validation and error handling:** raising appropriate exceptions
 ## Files
 - `smart_warehouse.py` — a container class using `__getitem__`,
   `__setitem__`, `__delitem__` and `__contains__`, with stock-limit
